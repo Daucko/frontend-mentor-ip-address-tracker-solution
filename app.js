@@ -147,7 +147,6 @@ async function lookup(query = '') {
     if (rateLimited.has(provider)) continue;
     try {
       const data = await provider(target);
-      //   console.log(provider.name, data);
       result = {
         ...data,
         ...Object.fromEntries(

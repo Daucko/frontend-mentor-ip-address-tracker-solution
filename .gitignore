@@ -26,6 +26,7 @@ npm-debug.log*
 /dist
 /.next
 /out
+/.qodo
 
 # IDEs and editors
 /.idea
