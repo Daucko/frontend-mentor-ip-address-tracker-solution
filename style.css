@@ -166,10 +166,9 @@ body {
 
   font-size: 0.6875rem;
   text-align: center;
-  border: 1px solid red;
 }
 .attribution a {
-  color: hsl(228, 45%, 44%);
+  color: hsl(0, 45%, 44%);
 }
 
 /* === Mobile === */
